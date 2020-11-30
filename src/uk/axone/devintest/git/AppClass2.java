@@ -1,7 +1,14 @@
 package uk.axone.devintest.git;
 
 public class AppClass2 {
-    public void doSomething(){
+    public void doSomething() {
         System.out.println("doing something");
+
+
+
+    }
+
+    public void Method2(){
+
     }
 }
